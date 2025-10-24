@@ -32,3 +32,26 @@ h2 {
   border-bottom: 2px solid #3498db;
   padding-bottom: 5px;
 }
+
+.project {
+  background: #f8f9fa;
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 5px;
+  border-left: 4px solid #3498db;
+}
+
+.project h3 {
+  color: #2c3e50;
+  margin-bottom: 10px;
+}
+
+.project a {
+  color: #3498db;
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+.project a:hover {
+  text-decoration: underline;
+}
